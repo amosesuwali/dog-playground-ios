@@ -13,7 +13,7 @@ struct ContentView: View {
             
     
         Button("Next", action: {
-            print("Going Next")
+           SelectFavBreedView()
         })
     }
 }

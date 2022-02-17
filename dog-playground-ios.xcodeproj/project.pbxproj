@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F0D529E227BE57AC004E9EC3 /* SelectFavBreedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0D529E127BE57AB004E9EC3 /* SelectFavBreedView.swift */; };
 		F0D93B3B2787772C00994B96 /* dog_playground_iosApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0D93B3A2787772C00994B96 /* dog_playground_iosApp.swift */; };
 		F0D93B3D2787772D00994B96 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0D93B3C2787772D00994B96 /* ContentView.swift */; };
 		F0D93B3F2787772F00994B96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0D93B3E2787772F00994B96 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F0D529E127BE57AB004E9EC3 /* SelectFavBreedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectFavBreedView.swift; sourceTree = "<group>"; };
 		F0D93B372787772C00994B96 /* dog-playground-ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "dog-playground-ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0D93B3A2787772C00994B96 /* dog_playground_iosApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dog_playground_iosApp.swift; sourceTree = "<group>"; };
 		F0D93B3C2787772D00994B96 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 		F0D93B392787772C00994B96 /* dog-playground-ios */ = {
 			isa = PBXGroup;
 			children = (
+				F0D529E127BE57AB004E9EC3 /* SelectFavBreedView.swift */,
 				F0D93B3A2787772C00994B96 /* dog_playground_iosApp.swift */,
 				F0D93B3C2787772D00994B96 /* ContentView.swift */,
 				F0D93B3E2787772F00994B96 /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0D529E227BE57AC004E9EC3 /* SelectFavBreedView.swift in Sources */,
 				F0D93B3D2787772D00994B96 /* ContentView.swift in Sources */,
 				F0D93B3B2787772C00994B96 /* dog_playground_iosApp.swift in Sources */,
 			);
